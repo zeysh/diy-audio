@@ -19,6 +19,8 @@
 * https://www.gyraf.dk/diy/
 * https://www.capi-gear.com/
 * https://www.soundskulptor.com/
+* https://thedonclassics.com/
+* https://www.hairballaudio.com/
 
 ### Pedals
 
@@ -29,6 +31,7 @@
 * https://www.pedalsandparts.com/
 * https://www.banzaimusic.com/
 * https://moodysounds.com/
+* https://aionfx.com/
 
 ### Shops
 
@@ -44,6 +47,7 @@
 * https://www.proreplicas.com/
 * Facebook https://www.facebook.com/groups/517919938413134/
 * Facebook Analogvibes[https://www.facebook.com/groups/analogvibes/2548927522014850/?comment_id=2549439628630306&notif_id=1588459531079994&notif_t=group_comment_follow]
+* https://mnats.net/
 
 ## Clones
 
